@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viprocket1
 - 👀 I’m interested in web3 and crypto
 - 🌱 I’m currently learning rust and trading 
-- 💞️ I’m looking to collaborate on rust - solana - web3
+- 💞️ I’m looking to collaborate on unreal engine, blockchain
 - 
 
 <!---
