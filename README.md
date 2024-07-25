@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viprocket1
 - 👀 I’m interested in web3 and crypto
-- 🌱 I’m currently learning sex
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on unreal engine, blockchain
 - 
 
